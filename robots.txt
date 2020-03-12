@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phohkahcan.admf.one/sitemap.xml
